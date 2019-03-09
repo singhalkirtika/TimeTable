@@ -1,1 +1,1 @@
-# Jenereta
+# Automatic Time Table Generator
